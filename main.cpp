@@ -1,3 +1,6 @@
+// Stackoverflow 26 april 2022
+// https://stackoverflow.com/questions/72018821/value-lost-after-2nd-call-of-method
+
 #include <QCoreApplication>
 #include <QDebug>
 #include <iostream>
